@@ -109,7 +109,7 @@ O projeto foi todo desenvolvido em python, foi utilizado o framework [FAST API](
 4. Se tudo funcionar corretamente, receberá o retorno abaixo.
 
 ```
-INFO:     Will watch for changes in these directories: ['/home/raiane/Documentos/Projetos/tech_challenge_1']
+INFO:     Will watch for changes in these directories: ['/home/gui/Documentos/Projetos/tech_challenge_main']
 INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
 INFO:     Started reloader process [35496] using WatchFiles
 INFO:     Started server process [35498]
